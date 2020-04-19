@@ -1,0 +1,64 @@
+.service-section {
+    padding: 80px 0;
+    background: #F5F6FA;
+}
+
+.serviceBox {
+    text-align: center;
+}
+
+.serviceBox .service-icon {
+    display: inline-block;
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+    margin-bottom: 22px;
+    font-size: 35px;
+    color: #eb4d4b;
+    position: relative;
+}
+
+.serviceBox .service-icon:before {
+    content: "";
+    width: 120px;
+    height: 120px;
+    border: 1px solid #e8e8e8;
+    border-radius: 3px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.25s ease 0s;
+}
+
+.serviceBox:hover .service-icon:before {
+    width: 93px;
+    height: 93px;
+    border: 3px solid #eb4d4b;
+    top: 13px;
+    left: 13px;
+    transform: rotate(45deg);
+}
+
+.serviceBox .title {
+    display: block;
+    font-size: 22px;
+    font-weight: 700;
+    margin: 0 0 15px 0;
+    transition: all 0.25s ease 0s;
+}
+
+.serviceBox:hover .title {
+    color: #eb4d4b;
+}
+
+.serviceBox .description {
+    font-size: 14px;
+    color: #888;
+    line-height: 25px;
+}
+
+@media only screen and (max-width: 990px) {
+    .serviceBox {
+        margin-bottom: 30px;
+    }
+}

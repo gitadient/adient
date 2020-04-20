@@ -40,7 +40,7 @@ h4 {
 .h2underline:after {
   display: block;
   height: 2px;
-  background-color: #eb4d4b;
+  background-color: #4834d4;
   content: " ";
   width: 100px;
   margin: 0 auto;
@@ -54,7 +54,7 @@ h4 {
   outline: none !important; }
 
 .navbar {
-  background-color: #eb4d4b !important; }
+  background-color: #4834d4 !important; }
 
 .navbar a {
   color: #fff !important; }
@@ -85,10 +85,10 @@ h4 {
   text-transform: uppercase;
   font-weight: bold;
   margin-bottom: 10px;
-  color: #eb4d4b; }
+  color: #fff; }
 
 .carousel-caption a {
-  background: #eb4d4b;
+  background: #4834d4;
   padding: 15px 35px;
   display: inline-block;
   margin-top: 15px;
@@ -103,7 +103,7 @@ h4 {
   background-image: none; }
 
 .carousel-indicators .active {
-  background-color: #eb4d4b; }
+  background-color: #4834d4; }
 
 @media only screen and (max-width: 767px) {
   .carousel-caption {
@@ -180,7 +180,7 @@ h4 {
   line-height: 1.8; }
 
 .fa-star {
-  color: #eb4d4b; }
+  color: #4834d4; }
 
 .abtcontent {
   padding: 80px 0; }
@@ -203,7 +203,7 @@ h4 {
   line-height: 120px;
   margin-bottom: 22px;
   font-size: 35px;
-  color: #eb4d4b;
+  color: #4834d4;
   position: relative; }
 
 .serviceBox .service-icon:before {
@@ -233,7 +233,7 @@ h4 {
   transition: all 0.25s ease 0s; }
 
 .serviceBox:hover .title {
-  color: #eb4d4b; }
+  color: #4834d4; }
 
 .serviceBox .description {
   font-size: 14px;
@@ -249,7 +249,7 @@ h4 {
   padding: 80px 0; }
 
 .fa-arrow-right {
-  color: #eb4d4b; }
+  color: #4834d4; }
 
 .footer-basic {
   padding: 40px 0;
@@ -301,7 +301,7 @@ h4 {
   font-size: 13px; }
 
 #footer-link {
-  color: #eb4d4b; }
+  color: #4834d4; }
 
 .gallery-block {
   padding-bottom: 60px;

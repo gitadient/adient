@@ -54,7 +54,7 @@ h4 {
   outline: none !important; }
 
 .navbar {
-  background-color: #6F2641 !important; }
+  background-color: #4834d4 !important; }
 
 .navbar a {
   color: #fff !important; }
@@ -88,7 +88,7 @@ h4 {
   color: #fff; }
 
 .carousel-caption a {
-  background: #6F2641;
+  background: #4834d4;
   padding: 15px 35px;
   display: inline-block;
   margin-top: 15px;
@@ -103,7 +103,7 @@ h4 {
   background-image: none; }
 
 .carousel-indicators .active {
-  background-color: #6F2641; }
+  background-color: #4834d4; }
 
 @media only screen and (max-width: 767px) {
   .carousel-caption {

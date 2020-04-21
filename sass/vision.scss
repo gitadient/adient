@@ -6,3 +6,15 @@
 .fa-arrow-right {
     color: #4834d4;
 }
+
+.abtcontent h4 {
+    color: #4834d4;
+}
+
+.abtcontent h4:after {
+    height: 2px;
+    background-color: #4834d4;
+    content: " ";
+    width: 100px;
+    margin-top: 30px;
+}
